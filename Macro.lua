@@ -5,3 +5,5 @@ game.Players.LocalPlayer.Character.Humanoid.JumpPower = 500
 
 wait()
 end 
+
+-- Made by J.P
